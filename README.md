@@ -1,0 +1,2 @@
+# REFUSE
+REalistic Fuels SimplifiEd
