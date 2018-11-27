@@ -17,6 +17,7 @@ REalistic Fuels SimplifiEd (a Kerbal Space Program mod)
     * Supporting hydrogen-oxygen ratios that are not state-of-the-art (i.e. more fuel rich engines with less capable regenerative cooling systems)
 * Supporting toxic RCS fuels, such as hydrazine
 * Supporting fuel classes that offer no gameplay value
+* Support interstellar mod, a future based mod that makes the game even more complex
 
 ## Currently supported propellant classes
 * Kerolox, otherwise known as Kerosene + LqdOxygen, or RP-1 + LqOxygen
@@ -32,6 +33,9 @@ REalistic Fuels SimplifiEd (a Kerbal Space Program mod)
 
 ## Possible future propellant classes
 * Methalox, otherwise known as LqdMethane + LqdOxygen, interesting for refueling on planets with CO2 rich atmosphere
+
+## Things that still need to be looked at
+* In-situ fuel production, both stock and Kerbalism based
 
 ## Dependencies
 * ModuleManager
