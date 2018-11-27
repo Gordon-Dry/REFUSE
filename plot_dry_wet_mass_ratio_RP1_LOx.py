@@ -34,9 +34,9 @@ dry_wet_ratio_lox = mass_of_lox_tank_per_liter_of_rp1/(mass_of_lox_tank_per_lite
 dry_wet_ratio_combined = mass_of_combined_fuel_tanks/(mass_of_combined_fuel_tanks + mass_of_combined_fuel_per_liter_of_rp1)
 
 first_index_where_dry_wet_ratio_combined_exceeds_desired_value = np.where(dry_wet_ratio_combined > desired_combined_dry_wet_ratio)[0][0]
-print('Dry-wet ratio mass ratio of rp1 tank {}% at a combined ratio {}%'.format(dry_wet_ratio_rp1[first_index_where_dry_wet_ratio_combined_exceeds_desired_value],
+print('Dry-wet ratio mass ratio of rp1 tank {} at a combined ratio {}'.format(dry_wet_ratio_rp1[first_index_where_dry_wet_ratio_combined_exceeds_desired_value],
                                                                                 dry_wet_ratio_combined[first_index_where_dry_wet_ratio_combined_exceeds_desired_value]))
-print('Dry-wet ratio mass ratio of LOx tank {}% at a combined ratio {}%, note that this only applies to a rocket running a fuel to oxidizer ratio of {}, so applicability is limited'.format(
+print('Dry-wet ratio mass ratio of LOx tank {} at a combined ratio {}, note that this only applies to a rocket running a fuel to oxidizer ratio of {}, so applicability is limited'.format(
                                                                                 dry_wet_ratio_lox[first_index_where_dry_wet_ratio_combined_exceeds_desired_value],
                                                                                 dry_wet_ratio_combined[first_index_where_dry_wet_ratio_combined_exceeds_desired_value],
                                                                                 mass_ratio_lox_rp1))
