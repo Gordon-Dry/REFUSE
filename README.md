@@ -7,7 +7,7 @@ REalistic Fuels SimplifiEd (a Kerbal Space Program mod)
     * SMURFF: scaling with stock fuels
     * RealFuels: a very large number of fuels, including engine re-ignition and throttle limits
 * This midpoint allows stock-like complexity, while still being able to discuss and tweak actually existing propellant classes
-* It's supposed give people of an impression of what is possible today in terms of performance, without pulling the non-stock engine modules that RealFuels uses
+* It's supposed give people of an impression of what is possible today in terms of performance, without using the non-stock engine modules that RealFuels uses
 
 ## Non-goals
 * Supporting a realistic progression through a carreer game, for example:
