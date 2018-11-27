@@ -3,14 +3,14 @@ REalistic Fuels SimplifiEd
 
 ## Goals
 * REFUSE is aimed at usage in conjunction with Real Solar System (or alternative) that has an low orbit velocity of 7800 m/s.
-* It sits on a midpoint inbetween:
+* It sits on a midpoint inbetween
 ** SMURFF: scaling with stock fuels
 ** RealFuels: a very large number of fuels, including engine re-ignition and throttle limits
 * This midpoint allows stock-like complexity, while still being able to discuss and tweak actually existing propellant classes
 * It's supposed give people of an impression of what is possible today in terms of performance, without pulling the non-stock engine modules that RealFuels uses
 
 ## Non-goals
-* Supporting a realistic progression through a carreer game, for example:
+* Supporting a realistic progression through a carreer game, for example
 ** Improving dry-wet ratios of tanks as materials improve
 ** Improving TWR ratios of engines as materials and fluid dynamic simulations become available (including required processing power)
 ** Supporting hypergolic fuels or any other fuel mixture that is no longer used on boosters
