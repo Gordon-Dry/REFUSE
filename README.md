@@ -1,5 +1,5 @@
 # REFUSE
-REalistic Fuels SimplifiEd
+REalistic Fuels SimplifiEd (a Kerbal Space Program mod)
 
 ## Goals
 * REFUSE is aimed at usage in conjunction with Real Solar System (or alternative) that has an low orbit velocity of 7800 m/s.
