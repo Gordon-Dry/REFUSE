@@ -18,7 +18,7 @@ REalistic Fuels SimplifiEd
 * Supporting toxic RCS fuels, such as hydrazine
 * Supporting fuel classes that offer no gameplay value
 
-## Currently supported propellant classes:
+## Currently supported propellant classes
 * Kerolox, otherwise known as Kerosene + LqdOxygen, or RP-1 + LqOxygen
     * De-facto standard fuel, applied to almost all engines and also to bi-propellant RCS systems
 * Hydrolox, otherwise known as LqdHydrogen + LqdOxygen, or LH2 + LqdOxygen, applied to any engine running with LqdHydrogen
