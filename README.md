@@ -36,6 +36,8 @@ REalistic Fuels SimplifiEd (a Kerbal Space Program mod)
 
 ## Things that still need to be looked at
 * In-situ fuel production, both stock and Kerbalism based
+* Fuel tank costs, especially B9 tanks, which currently receive a very brute force approach to patch the supported fuels (to avoid mod-specific dependencies)
+* Possible side-effects of the aggressive patching of all cases of B9 switches that have moduleId "fuelSwitch"
 
 ## Dependencies
 * ModuleManager
