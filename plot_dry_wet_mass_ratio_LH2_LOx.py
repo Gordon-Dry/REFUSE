@@ -6,7 +6,7 @@ import numpy as np
 # For literature comparison we always want to base ourselves on real life LH2+LOx combination
 # The point is to figure out the dry-wet mass ratio for LH2 from literature that typically considers all propellants together
 # So we assume that the tanks for LH2 and LOx are equal, but that LH2 is far less dense, and calculate from that the dry-wet ratio of LH2 tanks
-density_lh2 = 0.071 # kg/L
+density_lh2 = 0.07085 # kg/L
 density_lox = 1.141 # kg/L
 
 # In KSP:
